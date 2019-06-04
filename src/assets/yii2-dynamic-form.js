@@ -474,5 +474,7 @@
             });
         }
     };
+    
+    $toclone = $(widgetOptions.template);
 
 })(window.jQuery);
